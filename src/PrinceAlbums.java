@@ -7,4 +7,3 @@ public class PrinceAlbums {
     public boolean platinum;
     public String label;
 }
-Prince
