@@ -4,6 +4,6 @@
 public class PrinceAlbum {
     public String title;
     public int year;
-    public boolean platinum;
+    public boolean wentPlatinum;
     public String label;
 }
